@@ -41,5 +41,5 @@ while repeat:
         print("Paldies par spēli! Bye, bye!")
     else:
         repeat = False
-        print("Paldies par spēli!  Bye, bye!")
+        print("Paldies par spēli!  Bye, bye!") 
 #### 3. Un tt
