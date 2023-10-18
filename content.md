@@ -8,6 +8,7 @@ Dators nejauši ģenerē vienu skaitli no 1 līdz 100. Tālāk, piedāvā spēl�
 
 Spēles loģika ir labi aprakstīta sājā kodā:
 
+''py
 import random
 
 repeat = True
